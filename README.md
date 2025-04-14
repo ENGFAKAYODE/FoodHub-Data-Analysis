@@ -1,6 +1,5 @@
 # Foodhub Data Analysis
-https://github.com/ENGFAKAYODE/FoodHub-Data-Analysis/blob/main/food%20agg.jpg
-
+![image](https://github.com/ENGFAKAYODE/FoodHub-Data-Analysis/blob/main/food%20agg.jpg)
 ## TABLE OF CONTENT
 - [GENERAL OVERVIEW](#general-overview)
 - [OBJECTIVE](#objective)
