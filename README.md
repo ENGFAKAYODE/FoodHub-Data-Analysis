@@ -47,10 +47,9 @@ The dataset used for this project was obtained from [Foodhub](https://foodhub.co
 The dataset underwent a thorough EDA process which included:
 - Analyzing missing values and convert data types
 - Replacing values
-- Exploring customer ratings and feedback patterns
-- Visualizing relationships between variables such as delivery time, food preparation time and satisfaction level
-- Examining customer demographics and their correlation with satisfaction
-
+- Exploring customer ratings and preferences
+- Visualizing relationships between variables such as delivery time, food preparation time.
+  
 ## QUESTIONS ANSWERED
 - What is the minimum, average, and maximum time it takes for food to be prepared once an order is placed? : *20 mins, 27.37 mins, 35 mins*
 - How many orders are not rated? : *736*
